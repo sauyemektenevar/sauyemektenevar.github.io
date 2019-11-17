@@ -1,1 +1,702 @@
-{"tarih":"17 Kasım Pazar","yemek0":{"title":"TEST Çorba","calorie":"140","content":"SIVIYAĞ, KURU SOĞAN, HAVUÇ, PATATES, BEZELYE, SÜT, TUZ, UN"},"yemek1":{"title":"Tavuk Etli Kağıt Kebabı","calorie":"355","content":"TAVUK FLETO, PATLICAN, PATATES, HAVUÇ, BEZELYE, YEŞİL BİBER, DOMATES, SIVIYAĞ, KARABİBER, TUZ"},"yemek2":{"title":"Kırkağaç Köfte","calorie":"348","content":"DANA ETİ, SOĞAN, EKMEK, PATATES, YOĞURT, SALÇA, TUZ, KARABİBER, YUMURTA, SIVI YAĞ"},"yemek3":{"title":"Sebzeli Bulgur Pilavı","calorie":"320","content":"BULGUR, SIVI YAĞ, TUZ, NANE, SALÇA, DOMATES, BEZELYE, MISIR"},"yemek4":{"title":"Ayran","calorie":"84 ","content":"YOĞURT"}}
+[
+  {
+    "yemek1": {
+      "title": "Adana Çorba",
+      "calorie": "165",
+      "content": "SALÇA, DOMATES, NOHUT, BURGU MAKARNA, KEKİK, KARABİBER, PUL BİBER, TUZ, SIVIYAĞ"
+    },
+    "yemek2": {
+      "title": "Patlıcan Musakka",
+      "calorie": "365",
+      "content": "PATLICAN, DANA KIYMA, KURU SOĞAN, SALÇA, KARABİBER, TUZ, SIVI YAĞ, DOMATES, BİBER"
+    },
+    "yemek3": {
+      "title": "Tavuk Sote",
+      "calorie": "330",
+      "content": "TAVUK FİLETO, PATATES, K. SOĞAN, DOMATES, SIVI YAĞ, TUZ, KARABİBER, SALÇA"
+    },
+    "yemek4": {
+      "title": "Bulgur Pilavı",
+      "calorie": "339",
+      "content": ""
+    },
+    "yemek5": {
+      "title": "Yoğurt",
+      "calorie": "164",
+      "content": "YOĞURT"
+    },
+    "tarih": "24"
+  },
+  {
+    "yemek1": {
+      "title": "Sebze Çorba",
+      "calorie": "0",
+      "content": ""
+    },
+    "yemek2": {
+      "title": "Et Sote",
+      "calorie": "360",
+      "content": "DANA ETİ, KURU SOĞAN, DOMATES, Y.BİBER, SALÇA, UN, KARABİBER, TUZ, PATATES, SIVIYAĞ"
+    },
+    "yemek3": {
+      "title": "Kadınbudu Köfte",
+      "calorie": "350",
+      "content": ""
+    },
+    "yemek4": {
+      "title": "Nohutlu P. Pilav",
+      "calorie": "339",
+      "content": "PİRİNÇ, NOHUT, TUZ, MARGARİN, SIVI YAĞ"
+    },
+    "yemek5": {
+      "title": "Cacık",
+      "calorie": "100",
+      "content": "YOĞURT, SALATALIK, TUZ"
+    },
+    "tarih": "25"
+  },
+  {
+    "yemek1": {
+      "title": "Mercimek Ç.",
+      "calorie": "209",
+      "content": "KIRMIZI MERCİMEK, UN, SIVI YAĞ, TUZ, KARABİBER, LİMON SUYU"
+    },
+    "yemek2": {
+      "title": "Etli Kuru Fasulye",
+      "calorie": "345",
+      "content": ""
+    },
+    "yemek3": {
+      "title": "Tavuk Şinitzel",
+      "calorie": "0",
+      "content": ""
+    },
+    "yemek4": {
+      "title": "Sade Pirinç Pilavı",
+      "calorie": "0",
+      "content": "PİRİNÇ, TUZ, AYÇİÇEK YAĞI, MARGARİN"
+    },
+    "yemek5": {
+      "title": "Mevsim Salata",
+      "calorie": "70 ",
+      "content": "KIRMIZI LAHANA, HAVUÇ, MARUL, MAYDONOZ"
+    },
+    "tarih": "30"
+  },
+  {
+    "yemek1": {
+      "title": "Sebze Çorba",
+      "calorie": "140",
+      "content": "SIVIYAĞ, KURU SOĞAN, HAVUÇ, PATATES, BEZELYE, SÜT, TUZ, UN"
+    },
+    "yemek2": {
+      "title": "Fırın Köfte",
+      "calorie": "350",
+      "content": "DANA ETİ, EKMEK, PATATES, DOMATES, YEŞİL BİBER, K. SOĞAN, SALÇA, SIVI YAĞ, TUZ, KARABİBER, KİMYON, MAYDONOZ"
+    },
+    "yemek3": {
+      "title": "Hindi Kavurma",
+      "calorie": "0",
+      "content": ""
+    },
+    "yemek4": {
+      "title": "Soslu Boncuk Mak.",
+      "calorie": "378",
+      "content": ""
+    },
+    "yemek5": {
+      "title": "Ayran",
+      "calorie": "84 ",
+      "content": "YOĞURT"
+    },
+    "tarih": "31"
+  },
+  {
+    "yemek1": {
+      "title": "Ezogelin Ç.",
+      "calorie": "159",
+      "content": "PİRİNÇ, KIRMIZI MERCİMEK, BULGUR, TEL ŞEHRİYE, SALÇA, UN, NANE, SIVI YAĞ, TUZ, KARABİBER, PUL BİBER"
+    },
+    "yemek2": {
+      "title": "Patlıcan Kebap",
+      "calorie": "312",
+      "content": "DANA ETİ, PATLICAN, DOMATES, Y.BİBER, SALÇA, SIVIYAĞ, KARABİBER, TUZ, UN(İSTENİRSE), KURUSOĞAN"
+    },
+    "yemek3": {
+      "title": "Kuru Köfte(Patates)",
+      "calorie": "370",
+      "content": "DANA KIYMA , KURU SOĞAN, TUZ, KARABİBER, EKMEK İÇİ, AYÇİÇEK YAĞI, DOMATES, BİBER, PATATES"
+    },
+    "yemek4": {
+      "title": "Mercimekli Bulgur Pilavı",
+      "calorie": "0",
+      "content": ""
+    },
+    "yemek5": {
+      "title": "Yoğurt",
+      "calorie": "164",
+      "content": "YOĞURT"
+    },
+    "tarih": "1"
+  },
+  {
+    "yemek1": {
+      "title": "Tarhana Ç.",
+      "calorie": "160",
+      "content": "TARHANA, SALÇA, SIVIYAĞ, KURU NANE, UN, KARABİBER, TUZ,"
+    },
+    "yemek2": {
+      "title": "Etli Bezelye",
+      "calorie": "262",
+      "content": "DANA ETİ, BEZELYE, PATATES, TUZ, KARABİBER, SIVI YAĞ, SALÇA"
+    },
+    "yemek3": {
+      "title": "Etli Nohut",
+      "calorie": "298",
+      "content": "NOHUT, DANA ETİ, KURU SOĞAN, SALÇA, KARABİBER, SIVI YAĞ, TUZ, DOMATES, BİBER, KİMYON"
+    },
+    "yemek4": {
+      "title": "Sade Pirinç Pilavı",
+      "calorie": "0",
+      "content": "PİRİNÇ, TUZ, AYÇİÇEK YAĞI, MARGARİN"
+    },
+    "yemek5": {
+      "title": "Lokma Tatlısı",
+      "calorie": "685",
+      "content": ""
+    },
+    "tarih": "4"
+  },
+  {
+    "yemek1": {
+      "title": "Tel Şehriye Ç.",
+      "calorie": "148",
+      "content": "TEL ŞEHRİYE, SALÇA, SIVIYAĞ, TUZ, KARABİBER, UN"
+    },
+    "yemek2": {
+      "title": "Rosto Köfte Püreli",
+      "calorie": "302",
+      "content": "DANA ETİ, SIVI YAĞ, SALÇA, PATATES, K. SOĞAN, UN"
+    },
+    "yemek3": {
+      "title": "Pür.Tas Kebabı",
+      "calorie": "347",
+      "content": "DANA ETİ, KURU SOĞAN, SALÇA, PATATES, KARABİBER, TUZ, SÜT, AYÇİÇEK YAĞI,"
+    },
+    "yemek4": {
+      "title": "Bulgur Pilavı",
+      "calorie": "339",
+      "content": ""
+    },
+    "yemek5": {
+      "title": "Ayran",
+      "calorie": "84 ",
+      "content": "YOĞURT"
+    },
+    "tarih": "5"
+  },
+  {
+    "yemek1": {
+      "title": "Mercimek Ç.",
+      "calorie": "209",
+      "content": "KIRMIZI MERCİMEK, UN, SIVI YAĞ, TUZ, KARABİBER, LİMON SUYU"
+    },
+    "yemek2": {
+      "title": "Arnavut Ciğeri",
+      "calorie": "0",
+      "content": ""
+    },
+    "yemek3": {
+      "title": "Sebzeli Kebap",
+      "calorie": "335",
+      "content": "DANA ETİ, AYÇİÇEK YAĞI, PATATES, BEZELYE, Y.BİBER, MAYDONOZ, DOMATES, MISIRÖZÜ YAĞI, SALÇA, KARABİBER, HAVUÇ VEYA KABAK, KURU SOĞAN, TUZ, UN"
+    },
+    "yemek4": {
+      "title": "Nohutlu P. Pilav",
+      "calorie": "339",
+      "content": "PİRİNÇ, NOHUT, TUZ, MARGARİN, SIVI YAĞ"
+    },
+    "yemek5": {
+      "title": "Cacık",
+      "calorie": "100",
+      "content": "YOĞURT, SALATALIK, TUZ"
+    },
+    "tarih": "6"
+  },
+  {
+    "yemek1": {
+      "title": "Mahluta Çorba",
+      "calorie": "0",
+      "content": ""
+    },
+    "yemek2": {
+      "title": "İzmir Köfte",
+      "calorie": "360",
+      "content": "DANA ETİ, EKMEK, PATATES, DOMATES, KURU SOĞAN, SALÇA, MAYDANOZ, KARABİBER, KİMYON, SİVRİ BİBER, SIVIYAĞ, TUZ, UN"
+    },
+    "yemek3": {
+      "title": "Kıymalı Yumurta",
+      "calorie": "315",
+      "content": "DANA ETİ, YUMURTA, DOMATES, Y.BİBER, KURU SOĞAN, SIVIYAĞ, KARABİBER, KIRMIZI BİBER, TUZ, SALÇA"
+    },
+    "yemek4": {
+      "title": "Sade Pirinç Pilavı",
+      "calorie": "0",
+      "content": "PİRİNÇ, TUZ, AYÇİÇEK YAĞI, MARGARİN"
+    },
+    "yemek5": {
+      "title": "Cevizli Kadayıf",
+      "calorie": "457",
+      "content": "CEVİZ, YER FISTIĞI, UN, SIVI YAĞ, MARGARİN, ŞEKER"
+    },
+    "tarih": "7"
+  },
+  {
+    "yemek1": {
+      "title": "Ezogelin Ç.",
+      "calorie": "159",
+      "content": "PİRİNÇ, KIRMIZI MERCİMEK, BULGUR, TEL ŞEHRİYE, SALÇA, UN, NANE, SIVI YAĞ, TUZ, KARABİBER, PUL BİBER"
+    },
+    "yemek2": {
+      "title": "Etli Taze Fasulye",
+      "calorie": "250",
+      "content": "DANA ETİ, TAZE FASULYE, SIVI YAĞ, DOMATES, SALÇA, UN, KURU SOĞAN, KARABİBER, TUZ"
+    },
+    "yemek3": {
+      "title": "Tavuk Baget Haşlama",
+      "calorie": "0",
+      "content": ""
+    },
+    "yemek4": {
+      "title": "Sebzeli Bulgur Pilavı",
+      "calorie": "320",
+      "content": "BULGUR, SIVI YAĞ, TUZ, NANE, SALÇA, DOMATES, BEZELYE, MISIR"
+    },
+    "yemek5": {
+      "title": "Yoğurt",
+      "calorie": "164",
+      "content": "YOĞURT"
+    },
+    "tarih": "8"
+  },
+  {
+    "yemek1": {
+      "title": "Domates Ç.",
+      "calorie": "175",
+      "content": "SALÇA, UN, SÜT, SIVI YAĞ, TUZ, KARABİBER,"
+    },
+    "yemek2": {
+      "title": "Etli Kuru Fasulye",
+      "calorie": "345",
+      "content": ""
+    },
+    "yemek3": {
+      "title": "Patates Musakka",
+      "calorie": "254",
+      "content": "PATATES, DANA KIYMA, KURU SOĞAN, SALÇA, SIVI YAĞ, DOMATES, YEŞİL BİBER, TUZ"
+    },
+    "yemek4": {
+      "title": "Sade Pirinç Pilavı",
+      "calorie": "0",
+      "content": "PİRİNÇ, TUZ, AYÇİÇEK YAĞI, MARGARİN"
+    },
+    "yemek5": {
+      "title": "Turşu",
+      "calorie": "40 ",
+      "content": "KARIŞIK VEYA SALATALIK TURŞU"
+    },
+    "tarih": "11"
+  },
+  {
+    "yemek1": {
+      "title": "Mercimek Ç.",
+      "calorie": "209",
+      "content": "KIRMIZI MERCİMEK, UN, SIVI YAĞ, TUZ, KARABİBER, LİMON SUYU"
+    },
+    "yemek2": {
+      "title": "Mantarlı Piliç Roti",
+      "calorie": "378",
+      "content": "TAVUK BUT , MANTAR, KAŞAR, SIVI YAĞ, TUZ, KARABİBER"
+    },
+    "yemek3": {
+      "title": "Misket Köfte",
+      "calorie": "348",
+      "content": "DANA ETİ, EKMEK, KURUSOĞAN, SALÇA, TUZ KARABİBER,  SIVIYAĞ, PATATES, BEZELYE, HAVUÇ"
+    },
+    "yemek4": {
+      "title": "Dom. Biberli Erişte",
+      "calorie": "0",
+      "content": ""
+    },
+    "yemek5": {
+      "title": "Ayran",
+      "calorie": "84 ",
+      "content": "YOĞURT"
+    },
+    "tarih": "12"
+  },
+  {
+    "yemek1": {
+      "title": "Antep Çorba",
+      "calorie": "120",
+      "content": "SALÇA, UN, SIVI YAĞ, BULGUR, NANE, KARABİBER, PUL BİBER, TUZ"
+    },
+    "yemek2": {
+      "title": "Dana Haşlama",
+      "calorie": "307",
+      "content": "DANA ETİ, PATATES, HAVUÇ, BEZELYE, Y.BİBER, KARABİBER, TUZ, UN, SIVIYAĞ"
+    },
+    "yemek3": {
+      "title": "Hasanpaşa Köfte",
+      "calorie": "450",
+      "content": ""
+    },
+    "yemek4": {
+      "title": "Nohutlu P. Pilav",
+      "calorie": "339",
+      "content": "PİRİNÇ, NOHUT, TUZ, MARGARİN, SIVI YAĞ"
+    },
+    "yemek5": {
+      "title": "Osmanlı Şerbeti",
+      "calorie": "0",
+      "content": ""
+    },
+    "tarih": "13"
+  },
+  {
+    "yemek1": {
+      "title": "Ezogelin Ç.",
+      "calorie": "159",
+      "content": "PİRİNÇ, KIRMIZI MERCİMEK, BULGUR, TEL ŞEHRİYE, SALÇA, UN, NANE, SIVI YAĞ, TUZ, KARABİBER, PUL BİBER"
+    },
+    "yemek2": {
+      "title": "Etli Yaz Türlüsü",
+      "calorie": "325",
+      "content": "DANA ETİ, TAZE FASULYE, BAMYA, KURU SOĞAN, PATATES, KABAK, HAVUÇ, PATLICAN, Y.BİBER, DOMATES, SALÇA, SIVIYAĞ, KARABİBER, TUZ, UN"
+    },
+    "yemek3": {
+      "title": "Hindi Sote",
+      "calorie": "300",
+      "content": "HİNDİ FLETO, DOMATES, YEŞİL BİBER, PATATES, KURU SOĞAN, SALÇA, AYÇİÇEKYAĞI, KARABİBER, KİMYON, TUZ"
+    },
+    "yemek4": {
+      "title": "Bulgur Pilavı",
+      "calorie": "339",
+      "content": ""
+    },
+    "yemek5": {
+      "title": "Yoğurt",
+      "calorie": "164",
+      "content": "YOĞURT"
+    },
+    "tarih": "14"
+  },
+  {
+    "yemek1": {
+      "title": "Tarhana Ç.",
+      "calorie": "160",
+      "content": "TARHANA, SALÇA, SIVIYAĞ, KURU NANE, UN, KARABİBER, TUZ,"
+    },
+    "yemek2": {
+      "title": "Soslu Biftek (Püreli)",
+      "calorie": "365",
+      "content": "DANA ETİ, PATATES, SÜT, AYÇİÇEK YAĞI, SALÇA, TUZ, KARABİBER"
+    },
+    "yemek3": {
+      "title": "Soslu Tavuk Biftek",
+      "calorie": "0",
+      "content": ""
+    },
+    "yemek4": {
+      "title": "Barbunya Pilaki",
+      "calorie": "0",
+      "content": ""
+    },
+    "yemek5": {
+      "title": "Şöbiyet",
+      "calorie": "470",
+      "content": ""
+    },
+    "tarih": "15"
+  },
+  {
+    "yemek1": {
+      "title": "Mercimek Ç.",
+      "calorie": "209",
+      "content": "KIRMIZI MERCİMEK, UN, SIVI YAĞ, TUZ, KARABİBER, LİMON SUYU"
+    },
+    "yemek2": {
+      "title": "Etli Nohut",
+      "calorie": "298",
+      "content": "NOHUT, DANA ETİ, KURU SOĞAN, SALÇA, KARABİBER, SIVI YAĞ, TUZ, DOMATES, BİBER, KİMYON"
+    },
+    "yemek3": {
+      "title": "Tavuk Cordon Bleu",
+      "calorie": "0",
+      "content": ""
+    },
+    "yemek4": {
+      "title": "Sade Pirinç Pilavı",
+      "calorie": "0",
+      "content": "PİRİNÇ, TUZ, AYÇİÇEK YAĞI, MARGARİN"
+    },
+    "yemek5": {
+      "title": "Cevizli Kadayıf",
+      "calorie": "457",
+      "content": "CEVİZ, YER FISTIĞI, UN, SIVI YAĞ, MARGARİN, ŞEKER"
+    },
+    "tarih": "18"
+  },
+  {
+    "yemek1": {
+      "title": "Sebze Çorba",
+      "calorie": "0",
+      "content": ""
+    },
+    "yemek2": {
+      "title": "Patlıcan Musakka",
+      "calorie": "365",
+      "content": "PATLICAN, DANA KIYMA, KURU SOĞAN, SALÇA, KARABİBER, TUZ, SIVI YAĞ, DOMATES, BİBER"
+    },
+    "yemek3": {
+      "title": "Fırında Tavuk But",
+      "calorie": "0",
+      "content": "SIVI YAĞ, TUZ, KARABİBER,TAVUK BUT , HAVUÇ, KIRMIZI TOZ BİBER,MARUL"
+    },
+    "yemek4": {
+      "title": "Mer. Bulgur Pilavı",
+      "calorie": "0",
+      "content": ""
+    },
+    "yemek5": {
+      "title": "Yoğurt",
+      "calorie": "164",
+      "content": "YOĞURT"
+    },
+    "tarih": "19"
+  },
+  {
+    "yemek1": {
+      "title": "Ezogelin Ç.",
+      "calorie": "159",
+      "content": "PİRİNÇ, KIRMIZI MERCİMEK, BULGUR, TEL ŞEHRİYE, SALÇA, UN, NANE, SIVI YAĞ, TUZ, KARABİBER, PUL BİBER"
+    },
+    "yemek2": {
+      "title": "Et Sote",
+      "calorie": "360",
+      "content": "DANA ETİ, KURU SOĞAN, DOMATES, Y.BİBER, SALÇA, UN, KARABİBER, TUZ, PATATES, SIVIYAĞ"
+    },
+    "yemek3": {
+      "title": "Tavuk Kızartma",
+      "calorie": "0",
+      "content": ""
+    },
+    "yemek4": {
+      "title": "Mısırlı Pilav",
+      "calorie": "314",
+      "content": "MISIR, PİRİNÇ, SIVI YAĞ, MARGARİN, TUZ"
+    },
+    "yemek5": {
+      "title": "Ayran",
+      "calorie": "84 ",
+      "content": "YOĞURT"
+    },
+    "tarih": "20"
+  },
+  {
+    "yemek1": {
+      "title": "Yayla Çorba",
+      "calorie": "114",
+      "content": "PİRİNÇ, YOĞURT, KURU NANE, KARABİBER, SIVIYAĞ, UN, TUZ"
+    },
+    "yemek2": {
+      "title": "Zerdeçallı Tavuk Kavurma",
+      "calorie": "0",
+      "content": ""
+    },
+    "yemek3": {
+      "title": "Etli Taze Fasulye",
+      "calorie": "250",
+      "content": "DANA ETİ, TAZE FASULYE, SIVI YAĞ, DOMATES, SALÇA, UN, KURU SOĞAN, KARABİBER, TUZ"
+    },
+    "yemek4": {
+      "title": "Bulgur Pilavı",
+      "calorie": "339",
+      "content": ""
+    },
+    "yemek5": {
+      "title": "Komposto",
+      "calorie": "177",
+      "content": "KAYISI, ŞEKER"
+    },
+    "tarih": "21"
+  },
+  {
+    "yemek1": {
+      "title": "Tarhana Ç.",
+      "calorie": "160",
+      "content": "TARHANA, SALÇA, SIVIYAĞ, KURU NANE, UN, KARABİBER, TUZ,"
+    },
+    "yemek2": {
+      "title": "Mevsim Balık",
+      "calorie": "0",
+      "content": ""
+    },
+    "yemek3": {
+      "title": "İzmir Köfte",
+      "calorie": "360",
+      "content": "DANA ETİ, EKMEK, PATATES, DOMATES, KURU SOĞAN, SALÇA, MAYDANOZ, KARABİBER, KİMYON, SİVRİ BİBER, SIVIYAĞ, TUZ, UN"
+    },
+    "yemek4": {
+      "title": "Sade Pirinç Pilavı",
+      "calorie": "0",
+      "content": "PİRİNÇ, TUZ, AYÇİÇEK YAĞI, MARGARİN"
+    },
+    "yemek5": {
+      "title": "İrmik Helvası",
+      "calorie": "415",
+      "content": "İRMİK, AYÇİÇEK YAĞI, ÇAM FISTIĞI, SÜT, TOZ ŞEKER, MARGARİN"
+    },
+    "tarih": "22"
+  },
+  {
+    "yemek1": {
+      "title": "Ezogelin Çorba",
+      "calorie": "159",
+      "content": "PİRİNÇ, KIRMIZI MERCİMEK, BULGUR, SALÇA, UN, NANE, SIVI YAĞ"
+    },
+    "yemek2": {
+      "title": "Kıymalı Ispanak Graten",
+      "calorie": "0",
+      "content": ""
+    },
+    "yemek3": {
+      "title": "Fırında Tavuk But",
+      "calorie": "0",
+      "content": "SIVI YAĞ, TUZ, KARABİBER,TAVUK BUT , HAVUÇ, KIRMIZI TOZ BİBER,MARUL"
+    },
+    "yemek4": {
+      "title": "Soslu Spagetti",
+      "calorie": "315",
+      "content": "SPAGETTİ, SALÇA, KARABİBER, SIVI YAĞ, TUZ"
+    },
+    "yemek5": {
+      "title": "Yoğurt",
+      "calorie": "164",
+      "content": "YOĞURT"
+    },
+    "tarih": "25"
+  },
+  {
+    "yemek1": {
+      "title": "Domates Ç.",
+      "calorie": "175",
+      "content": "SALÇA, UN, SÜT, SIVI YAĞ, TUZ, KARABİBER,"
+    },
+    "yemek2": {
+      "title": "Tas Kebap",
+      "calorie": "347",
+      "content": "DANA ETİ, SIVIYAĞ, KARABİBER, SALÇA, KURU SOĞAN, TUZ, UN, PATATES, SÜT"
+    },
+    "yemek3": {
+      "title": "Fırın Köfte",
+      "calorie": "350",
+      "content": "DANA ETİ, EKMEK, PATATES, DOMATES, YEŞİL BİBER, K. SOĞAN, SALÇA, SIVI YAĞ, TUZ, KARABİBER, KİMYON, MAYDONOZ"
+    },
+    "yemek4": {
+      "title": "Sade Pirinç Pilavı",
+      "calorie": "0",
+      "content": "PİRİNÇ, TUZ, AYÇİÇEK YAĞI, MARGARİN"
+    },
+    "yemek5": {
+      "title": "Osmanlı Tulumba Tatlısı",
+      "calorie": "405",
+      "content": ""
+    },
+    "tarih": "26"
+  },
+  {
+    "yemek1": {
+      "title": "Mercimek Ç.",
+      "calorie": "209",
+      "content": "KIRMIZI MERCİMEK, UN, SIVI YAĞ, TUZ, KARABİBER, LİMON SUYU"
+    },
+    "yemek2": {
+      "title": "Etli Kuru Fasulye",
+      "calorie": "345",
+      "content": ""
+    },
+    "yemek3": {
+      "title": "Etli Yaz Türlüsü",
+      "calorie": "325",
+      "content": "DANA ETİ, TAZE FASULYE, BAMYA, KURU SOĞAN, PATATES, KABAK, HAVUÇ, PATLICAN, Y.BİBER, DOMATES, SALÇA, SIVIYAĞ, KARABİBER, TUZ, UN"
+    },
+    "yemek4": {
+      "title": "Bulgur Pilavı",
+      "calorie": "339",
+      "content": ""
+    },
+    "yemek5": {
+      "title": "Ayran",
+      "calorie": "84 ",
+      "content": "YOĞURT"
+    },
+    "tarih": "27"
+  },
+  {
+    "yemek1": {
+      "title": "Domates Ç.",
+      "calorie": "175",
+      "content": "SALÇA, UN, SÜT, SIVI YAĞ, TUZ, KARABİBER,"
+    },
+    "yemek2": {
+      "title": "Piliç Topkapı",
+      "calorie": "395",
+      "content": "PİLİÇ BUT, PİRİNÇ, ÇAM FISTIĞI, KUŞ ÜZÜMÜ, TUZ, KARABİBER, TARÇIN, SIVI YAĞ"
+    },
+    "yemek3": {
+      "title": "Dalyan Köfte",
+      "calorie": "325",
+      "content": "DANA KIYMA , KURU SOĞAN, SALÇA, SIVI YAĞ, UN, EKMEK İÇİ, HAVUÇ, KARABİBER, BEZELYE, KİMYON, TUZ, PATATES, SÜT"
+    },
+    "yemek4": {
+      "title": "Yoğ. Mantı",
+      "calorie": "310",
+      "content": "MANTI, YOĞURT, TUZ, SIVI YAĞ, KIRMIZI TOZBİBER, TEREYAĞ"
+    },
+    "yemek5": {
+      "title": "Mevsim Meyve",
+      "calorie": "98 ",
+      "content": ""
+    },
+    "tarih": "28"
+  },
+  {
+    "yemek1": {
+      "title": "Salçalı Tel Şehriye Çorbası",
+      "calorie": "148",
+      "content": "TEL ŞEHRİYE, SALÇA, SIVIYAĞ, TUZ, KARABİBER, UN"
+    },
+    "yemek2": {
+      "title": "Köri Soslu Tavuk Kavurma",
+      "calorie": "0",
+      "content": ""
+    },
+    "yemek3": {
+      "title": "Orman Kebabı",
+      "calorie": "369",
+      "content": "DANA KUŞBAŞI, PATATES, PATLICAN, HAVUÇ, BEZELYE, KURU SOĞAN, YEŞİL BİBER, KABAK, TUZ, SIVI YAĞ, KEKİK, UN, KARABİBER,"
+    },
+    "yemek4": {
+      "title": "Sade Pirinç Pilavı",
+      "calorie": "0",
+      "content": "PİRİNÇ, TUZ, AYÇİÇEK YAĞI, MARGARİN"
+    },
+    "yemek5": {
+      "title": "Cacık",
+      "calorie": "100",
+      "content": "YOĞURT, SALATALIK, TUZ"
+    },
+    "tarih": "29"
+  }
+]
